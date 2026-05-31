@@ -1,0 +1,7 @@
+mkdir qwerty
+
+mv YmhhY2thcmlDVEZ7d2g0dF80cjNfeTB1X2.QwaW5HXzFuX3RoM19wcjNmM3RjaD99 qwerty/
+
+cd qwerty
+
+YmhhY2thcmlDVEZ7d2g0dF80cjNfeTB1X2.QwaW5HXzFuX3RoM19wcjNmM3RjaD99
