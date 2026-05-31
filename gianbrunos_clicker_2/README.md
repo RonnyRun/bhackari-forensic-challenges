@@ -1,11 +1,7 @@
-# Gianbruno's Clicker 2
+# Gianbruno's Clicker 2 Writeup
 
-**Difficulty:** Easy  
-**Category:** rev  
-**Author:** Ronny  
-**Binary:** `YmhhY2thcmlDVEZ7d2g0dF80cjNfeTB1X2.QwaW5HXzFuX3RoM19wcjNmM3RjaD99`
+I did not really write a detailed writeup for this one...  
 
-## Story
+You had to either decompile the file with any reversing software or notice the startup location of the file (it was launched inside a qwerty folder)  
 
-After some digging, you uncover a rather suspicious file, one that seems to be hiding something…
-But how can it be unlocked?
+That- that was it
